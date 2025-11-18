@@ -1,19 +1,19 @@
 <div align="center">
   
-# 👋 Hello, I'm [@zk-evm](https://github.com/zk-evm)
+# 👋 Hello, I'm [@zig-vm](https://github.com/zig-vm)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast;TypeScript+%2B+Deno+%2B+Python+%2B+Zig+Expert;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="https://github.com/cursor-ide?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zk-evm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/zig-vm?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zig-vm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/zk-evm?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zk-evm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/zig-vm?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zig-vm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=cursor-ide&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="cursor-ide" />
+  <img src="https://komarev.com/ghpvc/?username=zig-vm&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="zig-vm" />
 </p>
 
 </div>
@@ -89,5 +89,5 @@ If you find my projects helpful, consider buying me a coffee! ☕
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70" alt="Footer" />
   
-  <p>⭐️ From <a href="https://github.com/cursor-ide">@zk-evm</a> with ❤️</p>
+  <p>⭐️ From <a href="https://github.com/zig-vm">@zig-vm</a> with ❤️</p>
 </div>
