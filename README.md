@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm [@cursor-ide](https://github.com/cursor-ide)
+# 👋 Hello, I'm [@zk-evm](https://github.com/zk-evm)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast;TypeScript+%2B+Deno+%2B+Python+%2B+Zig+Expert;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/cursor-ide?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cursor-ide?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zk-evm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/cursor-ide?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cursor-ide?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/zk-evm?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zk-evm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=cursor-ide&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="cursor-ide" />
 </p>
@@ -20,29 +20,7 @@
 
 ---
 
-### 🚀 About Me
-
-```typescript
-const cursor_ide = {
-    location: "🌍 Remote",
-    currentFocus: "Building performant, secure applications with Deno & JSR",
-    philosophy: "Clean code is not written by following a set of rules. 
-                 You know you are working on clean code when each routine 
-                 turns out to be pretty much what you expected.",
-    
-    expertise: {
-        languages: ["TypeScript", "Python", "Rust", "Zig", "Go"],
-        runtime: ["Deno 🦕", "Node.js", "Bun"],
-        frameworks: ["Fresh", "Hono", "FastAPI", "SvelteKit"],
-        tools: ["Docker", "K8s", "GitHub Actions", "Terraform"],
-        architecture: ["Microservices", "Event-Driven", "Serverless", "DDD"],
-        packageManagement: ["JSR", "Deno", "npm", "pip"]
-    },
-    
-    currentlyLearning: ["WebAssembly", "Quantum Computing", "ML/AI"],
-    funFact: "I debug with console.log and I'm not ashamed! 🤷"
-};
-```
+### 👾 About Me
 
 <details open>
 <summary><b>🔧 Languages & Runtimes</b></summary>
@@ -87,35 +65,6 @@ const cursor_ide = {
 
 </div>
 
-### 🎯 Current Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🦕 Deno-First vscode Extension Dev</h3>
-      <p>Building a next-gen framework bringing Deno's native features and JSR integration to vscode extension development</p>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" alt="Status" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white" alt="Deno" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    </td>
-    <td align="center" width="50%">
-      <h3>⚡ rs-bpe tokenizer</h3>
-      <p>A ridiculously fast Python BPE (Byte Pair Encoder) implementation written in Rust </p>
-      <img src="https://img.shields.io/badge/Status-Beta-orange?style=flat-square" alt="Status" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Rust-009688?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-    </td>
-  </tr>
-</table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cursor-ide&theme=tokyo-night&hide_border=true" alt="cursor-ide's github activity graph" />
-</div>
-
 ---
 
 <div align="center">
@@ -140,5 +89,5 @@ If you find my projects helpful, consider buying me a coffee! ☕
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70" alt="Footer" />
   
-  <p>⭐️ From <a href="https://github.com/cursor-ide">@cursor-ide</a> with 💙</p>
+  <p>⭐️ From <a href="https://github.com/cursor-ide">@zk-evm</a> with ❤️</p>
 </div>
